@@ -1,6 +1,6 @@
 # BharathReddy_AI_For_Business_Portfolio
 Applied AI Solutions for Business and Technology<br>
-Ganesh Mantrapudi<br>
+Bharath Reddy<br>
 
 ## Reflection Section
 
